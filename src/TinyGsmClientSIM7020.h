@@ -1,9 +1,9 @@
 /**
  * @file       TinyGsmClientSIM7020.h
- * @author     Volodymyr Shymanskyy
+ * @author     Tore Henriksen
  * @license    LGPL-3.0
- * @copyright  Copyright (c) 2016 Volodymyr Shymanskyy
- * @date       Nov 2016
+ * @copyright  None
+ * @date       Jan 2025
  */
 
 #ifndef SRC_TINYGSMCLIENTSIM7020_H_
